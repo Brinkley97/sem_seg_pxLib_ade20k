@@ -4,6 +4,8 @@
 
 - Would you like to apply sematic segmentation to your photos & images?
 
+- See main.ipynb
+
 ---
 ## TO DO : 
 - [x] SS of images with PixelLib
