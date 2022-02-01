@@ -8,7 +8,7 @@
 
 ---
 ## TO DO : 
-- [x] Apply SS to images
-- [ ] Apply SS to videos
-- [ ] Apply SS to every file in folder by looping
+- [x] SS of images with PixelLib
+- [ ] SS of videos with PixelLib
+- [ ] SS to every file in folder by looping with PixelLib
 - [ ] Rotate file to appropriate view
