@@ -13,3 +13,4 @@
 - [x] SS to every image in folder by looping
 - [ ] SS to every video in folder by looping
 - [ ] Rotate file to appropriate view
+- [ ] Structure of directory
