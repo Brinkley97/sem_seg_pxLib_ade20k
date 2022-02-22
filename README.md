@@ -9,6 +9,7 @@
 ---
 ## TO DO : 
 - [x] SS of images with PixelLib
-- [ ] SS of videos with PixelLib
-- [ ] SS to every file in folder by looping with PixelLib
+- [x] SS of videos with PixelLib
+- [x] SS to every image in folder by looping
+- [ ] SS to every video in folder by looping
 - [ ] Rotate file to appropriate view
